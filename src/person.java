@@ -298,7 +298,16 @@ public static int price1 () {
 
 
 
+    //--------------------------------------
 
+
+    public static int beautifulDays(int i, int j, int k) {
+        // Write your code here
+
+
+
+        er
+    }
 
 
 
